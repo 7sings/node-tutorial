@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "rock"
+    }
+  ],
+  "comments": [
+    {
+      "body": "hello rock",
+      "postId": "1",
+      "id": 1
+    },
+    {
+      "body": "you are really handsome",
+      "postId": "1",
+      "id": 2
+    },
+    {
+      "body": "expressjs",
+      "postId": "1",
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "rock",
+    "email": "rock@gmail.com"
+  }
+}
